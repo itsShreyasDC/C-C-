@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1631946465 source:d:\my projects\struct scan\main.c
+	<stdio.h>
+	<stdlib.h>
+

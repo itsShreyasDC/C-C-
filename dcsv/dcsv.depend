@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1657548240 source:d:\my projects\dcsv\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<math.h>
+

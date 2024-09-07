@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1677248543 source:d:\my projects\lab prog sem 3\infix_post\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

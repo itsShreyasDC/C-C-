@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1656825699 source:d:\my projects\swo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+

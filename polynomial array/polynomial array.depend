@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1682835883 source:d:\my projects\lab prog sem 3\polynomial array\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

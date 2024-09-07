@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1665629192 source:d:\my projects\pointarray\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
